@@ -131,6 +131,7 @@ public class GuideActivity extends BaseActivity {
         startActivity(intent);
         finish();
     }
+
 }
 
 
